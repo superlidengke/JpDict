@@ -1,0 +1,4 @@
+<span class='hjd_Green' title='日语单词'>[<font color=red>加盟</font>]</span> <span title='假名'>[kamei]</span> <span class='hjd_Orange' title='罗马音'>[かめい]</span> <span title="声调" class="hjd_Orange">◎</span><span title="日语发音"></span><span id="hjd_simple_amw_panel_1" class="hjd_add_myword"><a id='hjd_addword_image_1' href='###' class='hjd_simple_addword_image' onclick = 'HJ.fun.AddSimpleJpWord(1);return false' title = '添加到我的生词本'><img align='absmiddle' src ='http://dict.hjenglish.com/images/btn_myword_add.gif' alt='添加到我的生词本' width='16' height='16' /></a></span><br/><input type="hidden" value="加盟" id="hjd_amw_word_1"/><input type="hidden" value="【名词】 
+【自サ】 ;加盟；参加盟约；参加。（共同に事業をする団体の一員となって、責任を分担すること。）
+
+" id ="hjd_wordcomment_1"/><b>【名词】</b> <br/>【自サ】 ;加盟；参加盟约；参加。（共同に事業をする団体の一員となって、責任を分担すること。）<br/><br/>
