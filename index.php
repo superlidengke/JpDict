@@ -22,10 +22,10 @@ define('APP_DEBUG',True);
 define('APP_PATH','./app/');
 
 //定义url常量
-define('SITE_URL','http://ewan.uniwocity.com/');
+//define('SITE_URL','http://ewan.uniwocity.com/');
 //define('CSS_URL',SITE_URL.'public/css/');
-define('ADMIN_IMG_URL',SITE_URL.'public/admin/img/');
 //define('JS_URL',SITE_URL.'public/js/');
+
 
 
 
